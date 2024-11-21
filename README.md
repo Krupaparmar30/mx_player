@@ -13,6 +13,9 @@ Mx Player Application is designed for music lovers who want a seamless, immersiv
 
 🎵 * Intuitive Search Function: Easily search and discover songs, albums, and artists, expanding your music library with just a few taps.
 
+🎵 *Fetch Media from API 🌐
+Retrieve audio and video content from an API with seamless integration.
+
   <img src=" https://github.com/user-attachments/assets/c225b094-1150-4ac5-bb4f-092e5dca32bb" height=28% width=32%>
   <img src="https://github.com/user-attachments/assets/ddc32e92-d6cb-4d11-8b79-a8e3b6c29c93" height=28% width=32%>
   <img src="https://github.com/user-attachments/assets/6ad41827-edbb-4327-9e8e-b0fc15eee255" height=28% width=32%>
